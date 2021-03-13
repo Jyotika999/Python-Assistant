@@ -1,4 +1,3 @@
-# MADE BY CODE BLOODED JYOTIKA
 
 
 import pyttsx3 # text to speech conversion library 
